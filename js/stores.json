@@ -4,8 +4,8 @@
         "name": "빽다방 파주운정이마트점",
         "latitude": 37.7121873,
         "longitude": 126.7456171,
-        "bg_image": "/25-02-10_더본코리아/img/marker_bg.png",
-        "brand_image": "/25-02-10_더본코리아/img/브랜드로고_png/빽다방.png",
+        "bg_image": "https://namju-shin.github.io/theBorn_renewal/img/marker_bg.png",
+        "brand_image": "https://namju-shin.github.io/theBorn_renewal/img/브랜드로고_png/빽다방.png",
         "address": "경기도 파주시 동패동 1759-2",
         "phone": "031-947-8751"
     },
@@ -14,8 +14,8 @@
         "name": "홍콩반점0410 파주운정산내점",
         "latitude": 37.7286365,
         "longitude": 126.7356548,
-        "bg_image": "/25-02-10_더본코리아/img/marker_bg.png",
-        "brand_image": "/25-02-10_더본코리아/img/브랜드로고_png/홍콩반점.png",
+        "bg_image": "https://namju-shin.github.io/theBorn_renewal/img/marker_bg.png",
+        "brand_image": "https://namju-shin.github.io/theBorn_renewal/img/브랜드로고_png/홍콩반점.png",
         "address": "경기 파주시 청암로17번길 29",
         "phone": "031-944-0410"
     },
@@ -24,8 +24,8 @@
         "name": "미정국수 파주운정점",
         "latitude": 37.7348524,
         "longitude": 126.7570986,
-        "bg_image": "/25-02-10_더본코리아/img/marker_bg.png",
-        "brand_image": "/25-02-10_더본코리아/img/브랜드로고_png/미정국수.png",
+        "bg_image": "https://namju-shin.github.io/theBorn_renewal/img/marker_bg.png",
+        "brand_image": "https://namju-shin.github.io/theBorn_renewal/img/브랜드로고_png/미정국수.png",
         "address": "경기도 파주시 가람로 65 103호",
         "phone": "031-941-0410"
     },
@@ -34,8 +34,8 @@
         "name": "새마을식당 파주운정점",
         "latitude": 37.7287414,
         "longitude": 126.7636717,
-        "bg_image": "/25-02-10_더본코리아/img/marker_bg.png",
-        "brand_image": "/25-02-10_더본코리아/img/브랜드로고_png/새마을식당.png",
+        "bg_image": "https://namju-shin.github.io/theBorn_renewal/img/marker_bg.png",
+        "brand_image": "https://namju-shin.github.io/theBorn_renewal/img/브랜드로고_png/새마을식당.png",
         "address": "경기도 파주시 경의로1240번길 37-1",
         "phone": "031-945-0066"
     },
@@ -44,8 +44,8 @@
         "name": "역전우동 파주야당역점",
         "latitude": 37.7145128,
         "longitude": 126.7600601,
-        "bg_image": "/25-02-10_더본코리아/img/marker_bg.png",
-        "brand_image": "/25-02-10_더본코리아/img/브랜드로고_png/역전우동.png",
+        "bg_image": "https://namju-shin.github.io/theBorn_renewal/img/marker_bg.png",
+        "brand_image": "https://namju-shin.github.io/theBorn_renewal/img/브랜드로고_png/역전우동.png",
         "address": "경기 파주시 경의로 1090 120호",
         "phone": "031-935-5399"
     }
