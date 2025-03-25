@@ -126,7 +126,7 @@ if (storeNameEl && storeAddressEl && storePhoneEl) {
 
 async function fetchLocations() {
     try {
-        const response = await fetch("/25-02-10_더본코리아/js/stores.json"); // ✅ 정확한 경로로 수정
+        const response = await fetch("https://namju-shin.github.io/theBorn_renewal/js/stores.json"); // ✅ 정확한 경로로 수정
         const data = await response.json();
         return data;
     } catch (error) {
